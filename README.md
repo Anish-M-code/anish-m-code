@@ -19,7 +19,7 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 - 🌱 I’m currently learning everyday from mistakes i commit while writing buggy code.
 - I have basic programming experience in python, C, C++ and SQL.
 - 👯 Always ready to collaborate with anyone.
-- PGP FINGERPRINT:4339 E8DF F25C 1A09 C1AC 4DF3 AF0C D7AB A6CE 44A2
+- PGP FINGERPRINT: 4339 E8DF F25C 1A09 C1AC 4DF3 AF0C D7AB A6CE 44A2
 
 ### Contact
 [<img align="left" alt="anish-m-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anish-m-code)
