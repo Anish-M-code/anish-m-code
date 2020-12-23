@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am an aspiring Software Engineer from India who is interested in Computer Security , AI and Software Development.
-- 🔭 I like solving real world Problems by developing efficient Software.
-- 🌱 I’m currently learning everyday from mistakes i commit while writing buggy code.
+- 🔭 My passion is solving real world Problems by developing efficient Software whenever possible.
+- 🌱 Currently focusing on improving my knowledge of Algorithms and Data structures. 
 - I have basic programming experience in python, C, C++ and SQL.
 - 👯 Always ready to collaborate with anyone.
 - PGP FINGERPRINT: 4339 E8DF F25C 1A09 C1AC 4DF3 AF0C D7AB A6CE 44A2
