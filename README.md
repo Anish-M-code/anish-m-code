@@ -28,5 +28,5 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 
 <br><br>
 ### Stats
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anish-m-code&show_icons=true&theme=tokyonight" /> <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-m-code)](https://github.com/anish-m-code)
