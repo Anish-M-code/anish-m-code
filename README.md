@@ -24,8 +24,8 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 ### Contact
 [<img align="left" alt="anish-m-code | codeforces "  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/anish-m-code)
 [<img align="left" alt="anish-m-code | Leetcode " src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/Anish-M-code/)
-[<img align="left" alt="anish-m-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anish-m-code)
-[<img align="left" alt="aneesh25861 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/aneesh25861)
+[<img align="left" alt="anish-m-code | Linkedin " src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/anish-m-code)
+[<img align="left" alt="anish-m-code | Hackerrank " src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/aneesh25861)
 [<img align="left" alt="aneesh25861 | PGP KEY" width="22px" src="https://keybase.io/images/paramproofs/services/pgp/logo_black_16@2x.png" />](https://outflaw.blogspot.com/2019/12/my-pgp-key.html)
 
 <br><br>
