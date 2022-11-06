@@ -19,7 +19,7 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 - 🌱 Currently focusing on improving my knowledge of Algorithms and Data structures. 
 - I have basic programming experience in python, C, C++ and SQL.
 - 👯 Always ready to collaborate with anyone.
-- PGP FINGERPRINT: 4339 E8DF F25C 1A09 C1AC 4DF3 AF0C D7AB A6CE 44A2
+
 
 ### Contact
 [<img align="left" alt="anish-m-code | codeforces "  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/anish-m-code)
