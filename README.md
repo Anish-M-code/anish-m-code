@@ -19,7 +19,8 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 - 🌱 Currently focusing on improving my knowledge of Algorithms and Data structures. 
 - I have basic programming experience in python, C, C++ and SQL.
 - 👯 Always ready to collaborate with anyone.
-- PGP FINGERPRINT: 34BA 0B8A A9AF 2EB7 7B2A E4F6 D57E FA59 BA33 695F [<img align="left" alt="aneesh25861 | PGP KEY" width="22px" src="https://keybase.io/images/paramproofs/services/pgp/logo_black_16@2x.png" />](https://outflaw.blogspot.com/2022/12/my-new-pgp-key.html)
+- PGP FINGERPRINT: 34BA 0B8A A9AF 2EB7 7B2A E4F6 D57E FA59 BA33 695F
+-  [<img align="left" alt="aneesh25861 | PGP KEY" width="22px" src="https://keybase.io/images/paramproofs/services/pgp/logo_black_16@2x.png" />](https://outflaw.blogspot.com/2022/12/my-new-pgp-key.html)
 
 
 ### Contact
