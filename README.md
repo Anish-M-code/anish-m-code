@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an aspiring Software Engineer from India who is interested in Computer Security , AI and Software Development.
+I am a Software Engineer from India who is interested in Computer Security , AI and Software Development.
 - 🔭 My passion is solving real world Problems by developing efficient Software whenever possible.
 - 🌱 Currently focusing on improving my knowledge of Algorithms and Data structures. 
-- I have basic programming experience in python, C, C++ and SQL.
+- I have programming experience in python, C, C++ and SQL.
 - 👯 Always ready to collaborate with anyone.
 - PGP FINGERPRINT: 34BA 0B8A A9AF 2EB7 7B2A E4F6 D57E FA59 BA33 695F
 
