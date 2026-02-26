@@ -26,7 +26,3 @@ I am an aspiring Software Engineer from India who is interested in Computer Secu
 [<img align="left" alt="anish-m-code | Linkedin " src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/anish-m-code)
 
 
-<br><br>
-### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anish-m-code&show_icons=true&theme=tokyonight" /> <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-m-code&hide=Shell,Makefile)](https://github.com/anish-m-code)
